@@ -10,10 +10,6 @@
   "scripts": {
     "start": "node ./bin/www"
   },
-  "private": true,
-  "scripts": {
-    "start": "nodemon app.js"
-  },
   "dependencies": {
     "bitcoinjs-lib": "^3.3.2",
     "bitcoinjs-message": "^2.0.0",

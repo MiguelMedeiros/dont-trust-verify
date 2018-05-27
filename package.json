@@ -1,0 +1,22 @@
+{
+  "name": "dont-trust-verify",
+  "version": "0.0.1",
+  "repository": "github:MiguelMedeiros/dont-trust-verify",
+  "license" : "MIT",
+  "author" : "Miguel Medeiros",
+  "email" : "miguel@miguelmedeiros.com.br",
+  "url" : "http://www.miguelmedeiros.com.br/",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "bitcoinjs-lib": "^3.3.2",
+    "bitcoinjs-message": "^2.0.0",
+    "nodemon": "^1.17.5"
+  }
+}

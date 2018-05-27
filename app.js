@@ -32,7 +32,7 @@ var address2 = keyPair2.getAddress();
 var address3 = keyPair3.getAddress();
 
 // sign message with your private key
-var signature = bitcoinMessage.sign(message, privateKeyBuffer3, privateKeyBuffer3.compressed).toString('base64');
+var signature = bitcoinMessage.sign(message, privateKeyBuffer3, keyPair3.compressed).toString('base64');
 
 // **************************************************************************************
 // do it on public

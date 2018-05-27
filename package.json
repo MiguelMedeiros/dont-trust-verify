@@ -8,7 +8,7 @@
   "url": "http://www.miguelmedeiros.com.br/",
   "private": true,
   "scripts": {
-    "start": "nodemon start"
+    "start": "nodemon app.js"
   },
   "dependencies": {
     "bitcoinjs-lib": "^3.3.2",

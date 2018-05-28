@@ -1,6 +1,9 @@
 # Don't trust Verify! 
 This is an example on how to sign and verify messages on the Bitcoin protocol!
 
+Vídeo explaining this app (lang: PTBR):
+https://www.youtube.com/watch?v=mDaQqHPZ4js
+
 ## If you would like to pay me a beer!
 Donate Bitcoins: 18kXMmrDtgfeQgVmwfmygTaYLyQuVS4chK
 
